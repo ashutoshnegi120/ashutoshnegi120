@@ -3,9 +3,7 @@
 
 <img align="right" alt="codeGIF" width ="400" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshnegi120&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshnegi120" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshnegi120" alt="ashutoshnegi120" /></a> </p>
 
 - 🔭 I’m currently working on **multiplayer 4V4 FPS game**
 
@@ -31,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshnegi120&show_icons=true&locale=en" alt="ashutoshnegi120" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshnegi120&" alt="ashutoshnegi120" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshnegi120&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshnegi120" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshnegi120" alt="ashutoshnegi120" /></a> </p>
