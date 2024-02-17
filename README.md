@@ -1,3 +1,4 @@
+![logo](https://github.com/ashutoshnegi120/ashutoshnegi120/blob/main/logo.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh negi</h1>
 <h3 align="center">👋 Hi there! 💻 Skills: Python, C++, C, Flask, AI, Unity. 🌱 Learning: AI, web dev, game dev. 🤝 Open to collaboration</h3>
 
