@@ -1,35 +1,179 @@
 ![logo](https://github.com/ashutoshnegi120/ashutoshnegi120/blob/main/logo.gif)
-<h1 align="center">Hi 👋, I'm Ashutosh negi</h1>
-<h3 align="center">👋 Hi there! 💻 Skills: Python, C++, C, Flask, AI, Unity. 🌱 Learning: AI, web dev, game dev. 🤝 Open to collaboration</h3>
 
-<img align="right" alt="codeGIF" width ="400" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<h1 align="center">Hi 👋, I'm Ashutosh Negi</h1>
+<h3 align="center">🚀 Full-Stack Developer | Blockchain Engineer | AI/ML Enthusiast | Game Developer</h3>
 
+<img align="right" alt="codeGIF" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
+## 🎯 About Me
 
-- 🔭 I’m currently working on **multiplayer 4V4 FPS game**
+- 🔭 Currently working on **Multiplayer 4V4 FPS Game** and **Blockchain Applications**
+- 🌱 Learning **Advanced Game Development, Machine Learning, and Solana Blockchain**
+- 💬 Ask me about **Flask, Unity 3D, C#, Rust, Python, Blockchain Development**
+- 📫 Reach me at **ashutoshnegisgrr@gmail.com**
+- ⚡ Fun fact: I love building end-to-end solutions from smart contracts to AI-powered applications!
 
-- 🌱 I’m currently learning **Game dev , ML**
+## 🏆 Featured Projects
 
-- 💬 Ask me about **Flask , Unity 3D , C#**
+### 🤖 Smart Inventory Management with AI/ML
+> **Enterprise-grade multi-tenant SaaS platform with real-time ML pipeline**
+- **Tech Stack**: Rust (Actix-Web), Python (FastAPI), React TypeScript, PostgreSQL, MongoDB, Redis
+- **Key Features**: Real-time ML predictions, multi-tenant architecture, AI-powered forecasting, vector similarity search
+- **Highlights**: Online learning with River ML, LLM integration, complex analytics with CTEs
+- [**🔗 View Project**](https://github.com/ashutoshnegi120/Smart_Inventory_Management_With_AI_ML_integration)
 
-- 📫 How to reach me **ashutoshnegisgrr@gmail.com**
+### ⚡ Solana Marketplace Smart Contract
+> **Decentralized OLX-style marketplace with zero-copy architecture**
+- **Tech Stack**: Rust, Solana, Anchor Framework, Bytemuck
+- **Key Features**: Escrow system, PDA-based security, immutable transaction registry
+- **Highlights**: Production-ready smart contract, optimized for minimal compute units
+- [**🔗 View Project**](https://github.com/ashutoshnegi120/solana-marketplace)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh-negi-54a86b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-negi-54a86b210" height="30" width="40" /></a>
-<a href="https://instagram.com/ashutosh___negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh___negi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ashutoshnegisgrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashutoshnegisgrr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashutoshnegisgrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashutoshnegisgrr" height="30" width="40" /></a>
+### 🗳️ Solana Voting DApp
+> **Decentralized voting system with time-based constraints**
+- **Tech Stack**: Rust, Anchor Framework, Solana
+- **Key Features**: Candidate registration, secure voting, time-based validation
+- **Highlights**: Anti-double voting mechanism, PDA-based account management
+- [**🔗 View Project**](#) <!-- Add your voting dapp repo link -->
+
+### 🚀 GoTransfer - File Transfer Backend
+> **High-performance file transfer system with JWT authentication**
+- **Tech Stack**: Go, SQLite, JWT, Jenkins CI/CD
+- **Key Features**: User authentication, file upload/download, access control
+- **Highlights**: Built from scratch with net/http, CI/CD pipeline with email notifications
+- [**🔗 View Project**](https://github.com/ashutoshnegi120/GoTransfer)
+
+### 🎮 Game Development Portfolio
+> **Multiple Unity games showcasing different mechanics**
+
+#### 🧟 FPSZombies - First Person Shooter
+- **Features**: Enemy AI, health/damage systems, weapon mechanics
+- **Tech Stack**: Unity, C#, 3D Graphics
+
+#### 📱 Falling Item Collection Game
+- **Platform**: Android
+- **Features**: Touch controls, sound management, progressive difficulty
+- **Tech Stack**: Unity, C#, Mobile Optimization
+
+[**🔗 View All Games**](https://github.com/ashutoshnegi120)
+
+### 🌐 Web Development Projects
+
+#### GraphicCodeHub - Social Media Platform
+- **Tech Stack**: Flask, SQLAlchemy, MySQL
+- **Features**: User authentication, posts, comments, profiles
+- [**🔗 View Project**](https://github.com/ashutoshnegi120/GraphicCodeHub)
+
+#### Lane Detection System
+- **Tech Stack**: Python, OpenCV, Computer Vision
+- **Features**: Real-time lane detection, Hough transform implementation
+- [**🔗 View Project**](https://github.com/ashutoshnegi120/lane-detection)
+
+## 🛠️ Technology Stack
+
+### 🔗 Blockchain & Web3
+<p>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### 🚀 Backend Development
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshnegi120&show_icons=true&locale=en&layout=compact" alt="ashutoshnegi120" /></p>
+### 🤖 AI/ML & Data
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshnegi120&show_icons=true&locale=en" alt="ashutoshnegi120" /></p>
+### 🎮 Game Development
+<p>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshnegi120&" alt="ashutoshnegi120" /></p>
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
+### 🎨 Frontend & Tools
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshnegi120" alt="ashutoshnegi120" /></a> </p>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshnegi120&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshnegi120&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshnegi120&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏅 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshnegi120&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 🌟 What Makes Me Unique
+
+- **🔗 Blockchain Expertise**: From smart contracts to DeFi applications
+- **🤖 AI/ML Integration**: Real-time learning systems and vector databases  
+- **🎮 Game Development**: Complete game development lifecycle
+- **⚡ Performance Focus**: Zero-copy architectures and optimized systems
+- **🏗️ System Architecture**: Microservices, multi-tenant applications
+- **📊 Full-Stack Proficiency**: From databases to user interfaces
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ashutosh-negi-54a86b210" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/ashutosh___negi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/ashutoshnegisgrr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/ashutoshnegisgrr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
+
+## 💭 Quote That Drives Me
+> "The best way to predict the future is to build it." - Building tomorrow's solutions today! 🚀
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshnegi120&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  **"Crafting code that bridges blockchain, AI, and immersive experiences"** 💫
+  
+</div>
